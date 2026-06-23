@@ -17,34 +17,33 @@ I'm Nguyen Che Thien, a third-year student at Ho Chi Minh City University of Tec
 ###  Education
 
 - Ho Chi Minh City University of Technology and Education (HCMUTE) – Third-year student
-- [Previous School] – [Specialization or track]
 - My major is Control and Automation Engineering.
 
-### 🏆 Achievements & Certifications
+###  Achievements & Certifications
 
 #### TOEIC 735
 
 <p align="center">
-	<img src="TOEIC_735.jpg" alt="TOEIC 735 Certificate" width="650" />
+	<img src="TOEIC_735.jpg" alt="TOEIC 735 Certificate" width="420" />
 </p>
 
 #### SolidWorks CSWP
 
 <p align="center">
-	<img src="CSWP.png" alt="SolidWorks CSWP Certificate" width="650" />
+	<img src="CSWP.png" alt="SolidWorks CSWP Certificate" width="420" />
 </p>
 
 #### Scholarship Awards
 
 <p align="center">
-	<img src="HBKK-I-24-25.png" alt="Scholarship Award 1" width="650" />
+	<img src="HBKK-I-24-25.png" alt="Scholarship Award 1" width="420" />
 </p>
 
 <p align="center">
-	<img src="HBKK-I-25-26.png" alt="Scholarship Award 2" width="650" />
+	<img src="HBKK-I-25-26.png" alt="Scholarship Award 2" width="420" />
 </p>
 
-###  Projects & Contributions
+### Projects & Contributions
 
 I work on projects related to embedded systems, PCB design, robotics, and SolidWorks. My repositories already contain my projects, so you can explore them directly on my profile.
 ---
