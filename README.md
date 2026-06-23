@@ -6,15 +6,15 @@ I'm Nguyen Che Thien, a third-year student at Ho Chi Minh City University of Tec
 
 ### 📫 How to Reach Me
 
-[GitHub](https://github.com/Chethien1912) • [Facebook](https://www.facebook.com/) • [LinkedIn](https://www.linkedin.com/in/) • [Email](mailto:nguyenchethien.1012@gmail.com)
+[GitHub](https://github.com/Chethien1912) • [Facebook](https://www.facebook.com/) • [LinkedIn](https://www.linkedin.com/in/) • [Email](mailto:nguyenchethien.1912@gmail.com)
 
-### 🛠️ About Me
+###  About Me
 
 - I am passionate about embedded systems, PCB design, robotics, and SolidWorks.
 - I enjoy solving real problems with practical, hands-on engineering solutions.
 - My goal is to keep learning, keep building, and share useful projects with the community.
 
-### 🎓 Education
+###  Education
 
 - Ho Chi Minh City University of Technology and Education (HCMUTE) – Third-year student
 - [Previous School] – [Specialization or track]
@@ -44,7 +44,7 @@ I'm Nguyen Che Thien, a third-year student at Ho Chi Minh City University of Tec
 	<img src="HBKK-I-25-26.png" alt="Scholarship Award 2" width="650" />
 </p>
 
-### 📌 Projects & Contributions
+###  Projects & Contributions
 
 I work on projects related to embedded systems, PCB design, robotics, and SolidWorks. My repositories already contain my projects, so you can explore them directly on my profile.
 ---
