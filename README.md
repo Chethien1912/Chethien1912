@@ -18,13 +18,14 @@ I'm Nguyen Che Thien, a third-year student at Ho Chi Minh City University of Tec
 
 - Ho Chi Minh City University of Technology and Education (HCMUTE) – Third-year student
 - [Previous School] – [Specialization or track]
+- My major is Control and Automation Engineering.
 
 ### 🏆 Achievements & Certifications
 
 #### TOEIC 735
 
 <p align="center">
-	<img src="TOIEC.jpg" alt="TOEIC 735 Certificate" width="650" />
+	<img src="TOEIC_735.jpg" alt="TOEIC 735 Certificate" width="650" />
 </p>
 
 #### SolidWorks CSWP
